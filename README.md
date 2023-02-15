@@ -1,8 +1,8 @@
-# 📚 LP2A4 
-<h3>Aluno: Iurinicolas Henrique Garcia</h3>
+# 📚 LP3A5 
+<h3>Aluno: Iuri Nicolas Henrique Garcia</h3>
 <h3>Prontuário: SP3074048</h3>
 <h3>Disciplina: Linguagem de Programação II</h3>
-<h3>Professor: Diego Caldas Chaves</h3>
+<h3>Professor: Igor de Moraes Sampaio</h3>
 
 <br>
 
@@ -17,10 +17,4 @@ Cada atividade, projeto ou trabalho da disciplina, terá uma pasta destinada exc
 <br>
 
 ## 📑 Índice
-- [Atividade 1](https://github.com/iurihenriq/LP2A4/tree/main/atividade01)
-- [Atividade 2](https://github.com/iurihenriq/LP2A4/tree/main/atividade02)
-- [Github 1](https://github.com/iurihenriq/LP2A4/tree/main/github01)
-- [Github 2](https://github.com/iurihenriq/LP2A4/tree/main/github02)
-- [Github 3](https://github.com/iurihenriq/LP2A4/tree/main/github03)
-- [Github 4](https://github.com/iurihenriq/LP2A4/tree/main/github04)
-- [Github 5](https://github.com/iurihenriq/LP2A4/tree/main/github05)
+- [Atividade 1](https://github.com/iurihenriq/LP3A5/tree/main/atividade01)
